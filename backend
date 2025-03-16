@@ -1,3 +1,0 @@
-mkdir -p backend/app/nlp
-touch backend/{requirements.txt,Dockerfile}
-touch backend/app/main.py backend/app/nlp/{text_processor.py,summarizer.py,sentiment_analyzer.py}
